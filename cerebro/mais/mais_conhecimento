@@ -222,5 +222,29 @@
     "categoria": "comparative_religion",
     "nivel": "todos",
     "links": ["https://quran.com/pt/2/256", "https://quran.com/pt/61/6"]
+  },
+  {
+    "palavras_chave": ["tafsir 9:5", "surata at-tawbah 5", "matai os idolatras", "versiculo da espada", "contexto sura 9", "violacao de tratados"],
+    "resposta": "O versículo 5 da Surata At-Tawbah (9:5), frequentemente associado ao contexto de combate, está ligado a um cenário histórico específico na Península Arábica. A exegese islâmica clássica explica que este versículo se refere a tribos politeístas que violaram repetidamente tratados de paz estabelecidos com a comunidade muçulmana primitiva. Por isso, o comando está inserido num contexto de guerra declarada e não é entendido como uma ordem geral ou permanente contra todos os não-muçulmanos. O sentido jurídico do verso é analisado dentro das regras de guerra e tratados da época, e não como uma diretriz universal fora desse contexto.",
+    "fonte": "Alcorão 9:5, Tafsir Ibn Kathir, Tafsir Al-Tabari",
+    "categoria": "quranic_narrative",
+    "nivel": "todos",
+    "links": ["https://quran.com/pt/9/5"]
+  },
+  {
+    "palavras_chave": ["excecao 9:5", "cessacao de conflito", "arrependimento 9:5", "limites da guerra no islam"],
+    "resposta": "A estrutura do versículo 9:5 é compreendida pelos exegetas em conjunto com as suas condições internas e o contexto da Surata. A tradição tafsir explica que, caso os grupos em conflito abandonassem a hostilidade, respeitassem os compromissos e se integrassem às novas condições de convivência, as hostilidades deveriam cessar. A interpretação clássica destaca que o objetivo do versículo está ligado à cessação de agressões e restauração de ordem e segurança, e não a um princípio de agressão indiscriminada.",
+    "fonte": "Alcorão 9:5, Tafsir Al-Qurtubi",
+    "categoria": "aqidah",
+    "nivel": "todos",
+    "links": ["https://quran.com/pt/9/5"]
+  },
+  {
+    "palavras_chave": ["surata 9:6", "protecao ao inimigo", "asilo no islam", "direitos dos prisioneiros", "seguranca do inimigo"],
+    "resposta": "O versículo 9:6 da Surata At-Tawbah estabelece um princípio importante no contexto de guerra: se algum dos opositores pedir proteção, ele deve ser protegido e conduzido a um local seguro. Os exegetas clássicos explicam que este comando reforça limites éticos claros durante conflitos, incluindo a proteção de quem busca segurança e a possibilidade de ouvir a mensagem sem coerção. Isso demonstra que as regras de combate no Islam incluem salvaguardas para proteção e não-agressão a quem abandona hostilidades ou busca refúgio.",
+    "fonte": "Alcorão 9:6, Tafsir Ibn Kathir",
+    "categoria": "comparative_religion",
+    "nivel": "todos",
+    "links": ["https://quran.com/pt/9/6"]
   }
 ]
