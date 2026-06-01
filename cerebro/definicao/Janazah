@@ -54,5 +54,25 @@
     "categoria": "Fiqh",
     "nivel": "Intermediário",
     "links": ["https://Facebook.com/Islamguia"]
+  },
+  {
+    "palavras_chave": [
+      "1 de junho", "dia da crianca", "dia internacional da crianca", "comemorar dia da crianca", "islam e dia da crianca"
+    ],
+    "resposta": "A jurisprudência islâmica contemporânea analisa a observância de datas civis, como o Dia Internacional da Criança (1 de junho), sob o princípio da utilidade social e da ausência de caráter estritamente religioso. Os decretos legais (fatawa) estabelecem que a participação em atividades educativas, familiares, culturais ou de beneficência que visem o bem-estar e a proteção dos menores é permitida e incentivada, desde que não se atribua à data um estatuto de festividade sagrada (Eid). A doutrina enfatiza que a salvaguarda e a valorização da infância são deveres contínuos e intemporais, regulados de forma permanente pelo arcabouço jurídico e ético do Islam.",
+    "fonte": "Fatawa Comissões de Jurisprudência Contemporânea, Al-Bukhari 2554",
+    "categoria": "fiqh_contemporaneo",
+    "nivel": "todos",
+    "links": []
+  },
+  {
+    "palavras_chave": [
+      "direitos da crianca no islam", "criancas no islam", "amor pelas criancas", "educacao das criancas"
+    ],
+    "resposta": "O código ético do Islam (Akhlaq) estabelece diretrizes rigorosas para o tratamento de menores, fundamentadas na misericórdia, na justiça distributiva e no direito à educação integral. A tradição profética (Sunnah) documenta amplamente que o Profeta Muhammad ﷺ interagia com crianças através de manifestações públicas de afeto, brincadeiras e validação da sua dignidade social, estipulando o axioma teológico de que a ausência de compaixão para com os mais jovens impede a receção da misericórdia divina. A responsabilidade parental é definida juridicamente como um encargo de custódia (Amanah), obrigando à formação moral, espiritual e civil da prole.",
+    "fonte": "Sahih al-Bukhari 5997, Sahih Muslim 2318",
+    "categoria": "akhlaq",
+    "nivel": "todos",
+    "links": ["https://sunnah.com/bukhari:5997", "https://sunnah.com/muslim:2318"]
   }
 ]
