@@ -55,15 +55,17 @@
     "nivel": "Intermediário",
     "links": ["https://Facebook.com/Islamguia"]
   },
-  {
-    "palavras_chave": [
-      "1 de junho", "dia da crianca", "dia internacional da crianca", "comemorar dia da crianca", "islam e dia da crianca"
-    ],
-    "resposta": "A jurisprudência islâmica contemporânea analisa a observância de datas civis, como o Dia Internacional da Criança (1 de junho), sob o princípio da utilidade social e da ausência de caráter estritamente religioso. Os decretos legais (fatawa) estabelecem que a participação em atividades educativas, familiares, culturais ou de beneficência que visem o bem-estar e a proteção dos menores é permitida e incentivada, desde que não se atribua à data um estatuto de festividade sagrada (Eid). A doutrina enfatiza que a salvaguarda e a valorização da infância são deveres contínuos e intemporais, regulados de forma permanente pelo arcabouço jurídico e ético do Islam.",
-    "fonte": "Fatawa Comissões de Jurisprudência Contemporânea, Al-Bukhari 2554",
-    "categoria": "fiqh_contemporaneo",
-    "nivel": "todos",
-    "links": []
+ {
+  "palavras_chave": [
+    "1 de junho", "dia da crianca", "dia internacional da crianca"
+  ],
+  "resposta": "A jurisprudência islâmica ortodoxa delimita de forma estrita as festividades cíclicas, reconhecendo exclusivamente o Eid al-Fitr e o Eid al-Adha como as celebrações litúrgicas legítimas do Islam. Com base na tradição profética, a exegese clássica e contemporânea estipula que a estipulação ou adoção de datas recorrentes fixas como comemorações festivas (Ayam al-Eid) constitui uma inovação conceptual que não integra a práxis legislada. Relativamente ao Dia da Criança, a doutrina estabelece que os deveres de tutela, provisão, instrução moral e compaixão para com os menores são obrigações de caráter contínuo e permanente, independentes de calendários civis. A concessão de benefícios, assistência ou atos de beneficência à infância é incentivada de forma intemporal, desde que dissociada de qualquer ritualização ou equiparação a uma efeméride sagrada.",
+  "fonte": "Sunan Abu Dawud 1134, Majmu' Fatawa Ibn Taymiyyah (Volume 25)",
+  "categoria": "aqidah_and_fiqh",
+  "nivel": "todos",
+  "links": [
+    "https://sunnah.com/abudawud:1134"
+  ]
   },
   {
     "palavras_chave": [
