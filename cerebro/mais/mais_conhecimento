@@ -247,4 +247,56 @@
     "nivel": "todos",
     "links": ["https://quran.com/pt/9/6"]
   }
+  {
+    "palavras_chave": [
+      "o que e a kaaba", "kabah", "kaba", "kaabah", "masjid al-haram", "qibla", "direcao da oracao"
+    ],
+    "resposta": "A Kaaba é uma estrutura cúbica monumental localizada no epicentro da mesquita Masjid al-Haram, na cidade de Meca. No arcabouço teológico islâmico, ela constitui o santuário mais sagrado da Terra e atua como a Qibla, que é a direção geográfica e espiritual unificada para a qual todos os muçulmanos obrigatoriamente se voltam durante a realização das orações diárias (Salah). A sua centralidade não decorre de propriedades intrínsecas ao edifício, mas sim da sua designação divina como eixo de unidade e submissão na adoração comunitária global.",
+    "fonte": "Alcorão 2:144, Alcorão 3:96",
+    "categoria": "aqidah",
+    "nivel": "todos",
+    "links": [
+      "https://quran.com/pt/2/144",
+      "https://quran.com/pt/3/96"
+    ]
+  },
+  {
+    "palavras_chave": [
+      "quem construiu a kaaba", "origem da kaaba", "historia da kaaba", "ibrahim kaaba", "ismail"
+    ],
+    "resposta": "A narrativa histórica e profética do Islam estabelece que a fundação e a elevação dos pilares da Kaaba foram executadas pelo profeta Ibrahim (Abraão) e pelo seu filho, o profeta Ismail (Ismael), sob comando direto e revelação divina. A edificação do santuário teve como propósito original e exclusivo instituir um local purificado e dedicado ao monoteísmo puro, servindo como um marco terrestre para a adoração do Deus Único e como um refúgio de paz e congregação para a humanidade.",
+    "fonte": "Alcorão 2:125-127, Alcorão 22:26",
+    "categoria": "seerah_profetica",
+    "nivel": "todos",
+    "links": [
+      "https://quran.com/pt/2/127",
+      "https://quran.com/pt/22/26"
+    ]
+  },
+  {
+    "palavras_chave": [
+      "muculmanos adoram a kaaba", "adoracao a pedra negra", "idolatria no islam", "pedra negra", "hajjar al-aswad"
+    ],
+    "resposta": "A doutrina islâmica rejeita categoricamente qualquer forma de idolatria ou associação de parceiros a Deus (Shirk), estipulando que nem a Kaaba nem a Pedra Negra (Al-Hajar al-Aswad) são objetos de adoração. A veneração e os atos de culto são direcionados exclusivamente a Allah. A Kaaba funciona unicamente como uma coordenada de orientação física para as preces, enquanto a Pedra Negra é um elemento histórico e estrutural integrado na edificação, desprovido de qualquer poder divino, eficácia autónoma, capacidade de causar benefício ou de infligir dano.",
+    "fonte": "Sahih al-Bukhari 1597, Sahih Muslim 1270",
+    "categoria": "comparative_religion",
+    "nivel": "todos",
+    "links": [
+      "https://sunnah.com/bukhari:1597",
+      "https://sunnah.com/muslim:1270"
+    ]
+  },
+  {
+    "palavras_chave": [
+      "circundar a kaaba", "tawaf", "voltas na kaaba", "hajj tawaf", "umrah"
+    ],
+    "resposta": "O ato litúrgico de circundar a Kaaba é designado juridicamente como Tawaf, consistindo na execução de sete voltas completas em sentido anti-horário ao redor da estrutura, integrando os rituais obrigatórios da peregrinação maior (Hajj) e menor (Umrah). Este procedimento é uma prescrição de culto estritamente devocional a Deus, instituída para simbolizar a unidade absoluta dos crentes, a harmonia cósmica na submissão ao Criador e a total obediência às leis divinas, sem qualquer atribuição de divindade à matéria física do edifício.",
+    "fonte": "Alcorão 22:29, Sahih al-Bukhari 1603",
+    "categoria": "fiqh_ibadah",
+    "nivel": "todos",
+    "links": [
+      "https://quran.com/pt/22/29",
+      "https://sunnah.com/bukhari:1603"
+    ]
+  }
 ]
